@@ -1,0 +1,19 @@
+#dashboard {
+	background-color: whitesmoke;
+	width: 800px;
+	border: 2px lightgray;
+	border-radius: 25px;
+	margin: auto;
+	box-shadow: 10px 10px 5px lightgray;
+}
+
+h1{
+	text-align: center;
+	font-size: 175px;
+	color: whitesmoke;
+}
+
+#header{
+	background-color: magenta;
+
+}
